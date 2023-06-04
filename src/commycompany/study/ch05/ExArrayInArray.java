@@ -124,7 +124,22 @@ public class ExArrayInArray {
             double average = (double) personTotal[i] / score[i].length;
             System.out.println(name[i] + "의 평균 : " + average + "입니다.");
         }
-        //
+        // make personTotal axerage
+        System.out.println("------------사람별 총합--------------") ;
+        for (int i = 0; i < personTotal.length; i++) {
+            System.out.println(name[i] + "의 총합 : " + personTotal[i] + "입니다.");
+        }
+
+        // make subjectTotal axerage
+        System.out.println("------------과목별 총합--------------") ;
+        for (int i = 0; i < subjectTotal.length; i++) {
+            System.out.println(name[i] + "의 총합 : " + subjectTotal[i] + "입니다.");
+        }
+        //make personTotal axerage
+
+
+
+
 
     }
 }
