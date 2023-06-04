@@ -114,7 +114,7 @@ public class ExArrayInArray {
             System.out.println(name[i] + "의 평균 : " + average + "입니다.");
         }
 
-        System.out.println("------------사람별 총합--------------");
+        System.out.println(",");
         for (int i = 0; i < personTotal.length; i++) {
             System.out.println(name[i] + "의 총합 : " + personTotal[i] + "입니다.");
         }
