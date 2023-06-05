@@ -148,8 +148,6 @@ public class ExArrayInArray {
             System.out.println(name[i] + "의 평균 : " + average + "입니다.");
 
 
-
-
-
+        }
     }
 }
