@@ -20,6 +20,11 @@ public class ExTest {
                 System.out.print(i + " ");
             }
         }
+        System.out.print("0");
+      
+       
+        
+
 	}
 
 }
