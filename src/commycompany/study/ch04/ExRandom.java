@@ -58,6 +58,7 @@ public class ExRandom {
         int lottoNum = lotto[0] + lotto[1];
         System.out.println("lottoNum : " + lottoNum);
 
+
  
     }
 }
