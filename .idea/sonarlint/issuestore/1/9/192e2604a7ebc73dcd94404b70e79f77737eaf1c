@@ -1,0 +1,14 @@
+
+f
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(àÐŠ¹ýÿÿÿÿ
+t
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "y".(€…Ù•ûÿÿÿÿ
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "y".(çöòÌ
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "y".(ãù÷§
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "y".(§›¤Å
+Q	java:S125-"<This block of commented-out lines of code should be removed.( ¾Ìà
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(þ‘»¾
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(×ˆë²ûÿÿÿÿ

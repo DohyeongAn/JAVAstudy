@@ -1,0 +1,6 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú¡Û¡8á¥³òŠ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÔšÙ8â¥³òŠ1
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÉ¼O8â¥³òŠ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(çÌ´8æ¥³òŠ1
