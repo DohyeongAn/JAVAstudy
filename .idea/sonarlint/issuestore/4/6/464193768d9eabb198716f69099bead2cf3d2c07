@@ -1,0 +1,17 @@
+
+e
+java:S1192"ODefine a constant instead of duplicating this literal "ì› ì…ë‹ˆë‹¤" 10 times.(µ°Èü
+X
+java:S1854""=Remove this useless assignment to local variable "salesCost".(œâ—Ÿûÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ°Èü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û¤ë—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÅã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áÙˆóûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØƒÒªüÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(–üÊÙùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¸’û¤üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Ùºóâøÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(–çƒí
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(é©©¡

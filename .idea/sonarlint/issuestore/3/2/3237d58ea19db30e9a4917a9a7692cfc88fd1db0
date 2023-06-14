@@ -1,0 +1,24 @@
+
+N
+java:S2589"8Remove this expression which always evaluates to "false"(¤š
+M
+java:S2589"7Remove this expression which always evaluates to "true"(æ‚«Ö
+S
+java:S2589"8Remove this expression which always evaluates to "false"(ßÊäåÿÿÿÿÿ
+S
+java:S2589"8Remove this expression which always evaluates to "false"(ãî¡ıÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(æ‚«Ö
+S
+java:S2589"8Remove this expression which always evaluates to "false"(ÎÇ“„ÿÿÿÿÿ
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¸œ§ıÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıï’­üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ãˆ¤È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÏğÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ÏÛÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öåÉÒıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å”åƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÆüø

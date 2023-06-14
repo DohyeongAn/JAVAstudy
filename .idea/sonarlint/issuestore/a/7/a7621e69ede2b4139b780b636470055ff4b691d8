@@ -1,0 +1,20 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ÿôÇÿÿÿÿÿ
+e
+java:S1845"ORename method "title" to prevent any misunderstanding/clash with field "title".(ÅıÙ³
+i
+java:S1845"SRename method "content" to prevent any misunderstanding/clash with field "content".(ò°ÂØ
+h
+java:S1845"MRename method "view" to prevent any misunderstanding/clash with field "view".(‡‰½ºüÿÿÿÿ
+e
+java:S1845"ORename method "isNew" to prevent any misunderstanding/clash with field "isNew".(ùŠÂï
+i
+java:S1845"SRename method "regDate" to prevent any misunderstanding/clash with field "regDate".(Äõü­
+p
+java:S1845"URename method "contents" to prevent any misunderstanding/clash with field "contents".(áì€Àüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(§ä~
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìı†²şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ™çø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÚ†…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íæøúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìı†²şÿÿÿÿ

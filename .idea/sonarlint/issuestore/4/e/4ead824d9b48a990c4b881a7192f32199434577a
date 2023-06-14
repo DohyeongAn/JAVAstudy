@@ -1,0 +1,11 @@
+
+t	java:S135Û"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+3
+java:S1643ÿ"Use a StringBuilder instead.(ñÑÂ§
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+E
+java:S2140Ş")Use "java.util.Random.nextInt()" instead.(àÚÆ¦ıÿÿÿÿ
+O	java:S106	"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+Ş
+java:S6541"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 1121 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 13 to 6.(Çµí‘
