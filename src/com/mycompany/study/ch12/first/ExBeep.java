@@ -9,7 +9,11 @@ public class ExBeep {
 
         for (int i = 0; i < 5; i++) {
             toolkit.beep();
-            Thread.sleep(500);
+            try {
+                Thread.sleep(500);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
         }
 
     }
